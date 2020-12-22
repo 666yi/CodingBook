@@ -61,7 +61,8 @@ class Trie{
 	
 }
 
----
+#### 2. Python
+```python
 class TrieNode():
     def __init__(self):
 	self.children = collections.defaultdict(TrieNode)
@@ -84,3 +85,4 @@ class Trie():
 	    if not node:
 		return False
 	return node.isWord
+```
