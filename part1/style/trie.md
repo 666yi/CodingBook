@@ -60,9 +60,8 @@ class Trie{
 	}
 	
 }
-## Trie
 
----
+
 ```Python
 class Trie{
 	class TrieNode():
