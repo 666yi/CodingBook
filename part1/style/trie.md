@@ -86,4 +86,4 @@ class Trie{
 		    if not node:
 			return False
 		return node.isWord
-	}
+}
